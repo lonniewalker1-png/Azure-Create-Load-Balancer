@@ -1,1 +1,1 @@
-New-AzResourceGroup -ResourceGroupName "myResourceGroupLoadBalancer" -Location "EastUS"
+
